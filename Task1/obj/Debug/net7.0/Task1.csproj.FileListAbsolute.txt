@@ -1,0 +1,14 @@
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Aser\Desktop\c#seminar\c-seminar_intro_repo\Task1\obj\Debug\net7.0\ref\Task1.dll
